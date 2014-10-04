@@ -1,0 +1,46 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1399" measuredH="960" mockupW="1283" mockupH="923">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="116" y="37" w="1283" h="923" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1"/>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::Title" x="263" y="182" w="-1" h="-1" measuredW="240" measuredH="43" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>%uC601%uB0A8%uC2E4%uBC84%uCF00%uC5B4</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::LinkBar" x="975" y="115" w="-1" h="-1" measuredW="228" measuredH="19" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="__group__" x="263" y="240" w="954" h="110" measuredW="954" measuredH="110" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Horizontal%20Flyout%20Menu%20Expanded</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::MenuBar" x="0" y="0" w="954" h="24" measuredW="452" measuredH="21" zOrder="0" locked="false" isInGroup="5">
+          <controlProperties>
+            <selectedIndex>2</selectedIndex>
+            <text>%uC778%uC0AC%2C%20Spiderman%2C%20Batman%2C%20He-Man%2C%20Wonder%20Woman%2C%20Iron%20Man</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Menu" x="303" y="24" w="257" h="-1" measuredW="150" measuredH="86" zOrder="1" locked="false" isInGroup="5">
+          <controlProperties>
+            <selectedIndex>1</selectedIndex>
+            <text>Robin%0ABatgirl%0AJim%20Gordon%0AAlfred%20Pennyworth</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="6" controlTypeID="__group__" x="263" y="300" w="954" h="260" measuredW="954" measuredH="260" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Coverflow%20Carousel%20Photos</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Image" x="760" y="47" w="194" h="173" measuredW="77" measuredH="79" zOrder="0" locked="false" isInGroup="6"/>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Image" x="655" y="31" w="232" h="206" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="6"/>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="522" y="18" w="260" h="234" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="6"/>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::Image" x="0" y="44" w="194" h="173" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="6"/>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="67" y="23" w="232" h="206" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="6"/>
+        <control controlID="5" controlTypeID="com.balsamiq.mockups::Image" x="173" y="12" w="260" h="234" measuredW="77" measuredH="79" zOrder="5" locked="false" isInGroup="6"/>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::Image" x="305" y="0" w="343" h="260" measuredW="77" measuredH="79" zOrder="6" locked="false" isInGroup="6"/>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::TabBar" x="263" y="589" w="601" h="225" measuredW="201" measuredH="100" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::ModalScreen" x="879" y="589" w="332" h="225" measuredW="318" measuredH="240" zOrder="6" locked="false" isInGroup="-1"/>
+  </controls>
+</mockup>

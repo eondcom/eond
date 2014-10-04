@@ -1,21 +1,21 @@
 <mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1497" measuredH="1315" mockupW="1491" mockupH="1313">
   <controls>
-    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="441" y="339" w="1056" h="976" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="441" y="339" w="1056" h="976" measuredW="450" measuredH="400" zOrder="0" locked="true" isInGroup="-1">
       <controlProperties>
         <text>A%20Web%20Page%0Ahttp%3A//</text>
       </controlProperties>
     </control>
-    <control controlID="1" controlTypeID="com.balsamiq.mockups::MultilineButton" x="483" y="584" w="277" h="81" measuredW="132" measuredH="66" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::MultilineButton" x="483" y="584" w="277" h="81" measuredW="86" measuredH="66" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <text>XE%20%uACF5%uBD80%0AXE%20Forum%20%26%20Study</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::MultilineButton" x="771" y="584" w="282" h="81" measuredW="102" measuredH="66" zOrder="2" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::MultilineButton" x="771" y="584" w="282" h="81" measuredW="91" measuredH="66" zOrder="2" locked="false" isInGroup="-1">
       <controlProperties>
         <text>XE%20Shop%0A%uB808%uC774%uC544%uC6C3/%uC704%uC82F%20%uD310%uB9E4</text>
       </controlProperties>
     </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1064" y="584" w="377" h="81" measuredW="102" measuredH="66" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::MultilineButton" x="1064" y="584" w="377" h="81" measuredW="112" measuredH="66" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%uCEE4%uC2A4%uD140%20%uC758%uB8B0%0A%uC720%uB8CC%uC218%uC815%20%uBC0F%20%uC81C%uC791%uC758%uB8B0</text>
       </controlProperties>
