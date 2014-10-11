@@ -92,7 +92,7 @@
         <text>%uB808%uC774%uC544%uC6C3</text>
       </controlProperties>
     </control>
-    <control controlID="36" controlTypeID="com.balsamiq.mockups::ButtonBar" x="740" y="520" w="695" h="33" measuredW="399" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::ButtonBar" x="745" y="528" w="695" h="33" measuredW="399" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
       <controlProperties>
         <text>XE%20%uD648%2CXE%20%uC2A4%uD130%uB514%2CXE%20%uC0F5%2C%uCEE4%uC2A4%uD140%20%uC758%uB8B0%2C%uBB34%uB8CC%20%uB2E4%uC6B4%uB85C%uB4DC</text>
       </controlProperties>
@@ -103,22 +103,29 @@
         <text>%uB85C%uADF8%uC778%2C%uD68C%uC6D0%uAC00%uC785</text>
       </controlProperties>
     </control>
-    <control controlID="40" controlTypeID="com.balsamiq.mockups::Title" x="483" y="515" w="-1" h="-1" measuredW="120" measuredH="43" zOrder="34" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>%uC774%uC628%uB514</text>
-      </controlProperties>
-    </control>
-    <control controlID="41" controlTypeID="com.balsamiq.mockups::ButtonBar" x="483" y="412" w="348" h="26" measuredW="348" measuredH="21" zOrder="35" locked="false" isInGroup="-1">
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::ButtonBar" x="483" y="412" w="348" h="26" measuredW="348" measuredH="21" zOrder="34" locked="false" isInGroup="-1">
       <controlProperties>
         <text>%uC774%uC628%uB514%2CXE%2CWEB%2CROSSO%2CMYNOTE%2CIS</text>
       </controlProperties>
     </control>
-    <control controlID="45" controlTypeID="com.balsamiq.mockups::TextInput" x="1226" y="488" w="163" h="-1" measuredW="79" measuredH="23" zOrder="36" locked="false" isInGroup="-1">
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::TextInput" x="1226" y="488" w="163" h="-1" measuredW="79" measuredH="23" zOrder="35" locked="false" isInGroup="-1">
       <controlProperties>
         <size>24</size>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="46" controlTypeID="com.balsamiq.mockups::Button" x="1397" y="488" w="38" h="23" measuredW="60" measuredH="24" zOrder="37" locked="false" isInGroup="-1"/>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Button" x="1397" y="488" w="38" h="23" measuredW="60" measuredH="24" zOrder="36" locked="false" isInGroup="-1"/>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Image" x="490" y="494" w="-1" h="-1" measuredW="120" measuredH="60" zOrder="37" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/logo_eond_1.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Image" x="617" y="499" w="-1" h="-1" measuredW="100" measuredH="50" zOrder="38" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/logo_eond_201410.png</src>
+        <text/>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
