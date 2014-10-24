@@ -115,15 +115,21 @@
       </controlProperties>
     </control>
     <control controlID="46" controlTypeID="com.balsamiq.mockups::Button" x="1397" y="488" w="38" h="23" measuredW="60" measuredH="24" zOrder="36" locked="false" isInGroup="-1"/>
-    <control controlID="49" controlTypeID="com.balsamiq.mockups::Image" x="490" y="494" w="-1" h="-1" measuredW="120" measuredH="60" zOrder="37" locked="false" isInGroup="-1">
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Image" x="32" y="339" w="-1" h="-1" measuredW="120" measuredH="60" zOrder="37" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/logo_eond_1.png</src>
         <text/>
       </controlProperties>
     </control>
-    <control controlID="51" controlTypeID="com.balsamiq.mockups::Image" x="617" y="499" w="-1" h="-1" measuredW="100" measuredH="50" zOrder="38" locked="false" isInGroup="-1">
+    <control controlID="51" controlTypeID="com.balsamiq.mockups::Image" x="32" y="407" w="-1" h="-1" measuredW="100" measuredH="50" zOrder="38" locked="false" isInGroup="-1">
       <controlProperties>
         <src>./assets/logo_eond_201410.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Image" x="483" y="511" w="-1" h="-1" measuredW="205" measuredH="50" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/logo_eondxe_3.png</src>
         <text/>
       </controlProperties>
     </control>
